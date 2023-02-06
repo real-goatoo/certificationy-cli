@@ -26,7 +26,7 @@
         "symfony/console": "^4.4 || ^5.4 || ^6.0",
         "certificationy/certificationy": "^2.0",
         "symfony/yaml": "^4.4 || ^5.4 || ^6.0",
-        "real-goatoo/symfony-pack": "dev-main",
+        "real-goatoo/symfony-pack": "dev-main"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.5",
