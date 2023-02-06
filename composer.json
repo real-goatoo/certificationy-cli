@@ -1,5 +1,5 @@
 {
-    "name": "certificationy/certificationy-cli",
+    "name": "real-goatoo/certificationy-cli",
     "type": "library",
     "description": "A CLI tool to train certifications",
     "keywords": [
@@ -9,7 +9,7 @@
         "test",
         "exam"
     ],
-    "homepage": "http://github.com/certificationy/certificationy-cli",
+    "homepage": "http://github.com/real-goatoo/certificationy-cli",
     "license": "MIT",
     "authors": [
         {
@@ -26,8 +26,7 @@
         "symfony/console": "^4.4 || ^5.4 || ^6.0",
         "certificationy/certificationy": "^2.0",
         "symfony/yaml": "^4.4 || ^5.4 || ^6.0",
-        "certificationy/symfony-pack": "^1.4",
-        "certificationy/php-pack": "^1.5"
+        "real-goatoo/symfony-pack": "^1.4",
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.5",
